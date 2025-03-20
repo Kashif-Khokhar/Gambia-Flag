@@ -1,0 +1,35 @@
+.center{
+    text-align: center;
+}
+.flag{
+    width: 300px;
+    height: 180px;
+    margin-top: 150px;
+    margin-left: 500px;
+    border: black solid 2px;
+}
+.red{
+    width: 300px;
+    height: 60px;
+    background-color: red;
+}
+.white{
+    width: 300px;
+    height: 10px;
+    background-color: white;
+}
+.blue{
+    width: 300px;
+    height: 40px;
+    background-color: blue;
+}
+.white{
+    width: 300px;
+    height: 10px;
+    background-color: white;
+}
+.green{
+    width: 300px;
+    height: 60px;
+    background-color: green;
+}
